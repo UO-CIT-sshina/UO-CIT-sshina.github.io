@@ -42,3 +42,5 @@ Fetch and work with placeholder data using promises and node-fetch
 Practice GitHub workflow
 - **Lab 10**
 Nothing
+
+![Image](https://images.unsplash.com/photo-1609309252136-62e4044389ab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1931&q=80)
