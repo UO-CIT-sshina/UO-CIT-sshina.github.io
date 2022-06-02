@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# CIT 281
+## Labs & Projects
 
-You can use the [editor on GitHub](https://github.com/UO-CIT-sshina/UO-CIT-sshina.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+1. **Project 1**
+Familiarize yourself with Node.js and CLI
+  - **Lab 01**
+Install software for the class, practice keyboard shortcuts, and practice with Node
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. **Project 2**
+Practice git and optimized javascript, output random or sorted strings through created functions
+- **Lab 02**
+Get to know git
 
-### Markdown
+3. **Project 3**
+Calculate values of groups of coins using js concepts from recent lectures
+- **Lab 03**
+Practice new js concepts from lectures
+- **Lab 04**
+Creating your first server with Node and Fastify
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. **Project 4**
+Implement accessibility and interactivity with an array through a Node.js REST API server, including ability to add and remove elements and accessing the updated array
+- **Lab 05**
+Practice POST and GET requests with JSONs using Postman
 
-```markdown
-Syntax highlighted code block
+5. **Project 5**
+Optional - a video game viewed in the CLI of fighting monsters, done through classes, timeouts, modules, arrays.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+6. **Project 6**
+Create a shape class and child classes with working functions and variable inputs
+- **Lab 06**
+Work with classes -- creating classes and adding and removing instances
+- **Lab 07**
+Create a workplace between local system and online GitHub repos
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UO-CIT-sshina/UO-CIT-sshina.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+7. **Project 7 (You are here)**
+Create a GitHub page for all CIT projects and labs
+- **Lab 08**
+Fetch and work with placeholder data using promises and node-fetch
+- **Lab 09**
+Practice GitHub workflow
+- **Lab 10**
+Nothing
