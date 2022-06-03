@@ -1,14 +1,14 @@
 # CIT 281
 ## Labs & Projects
 
-1. **Project 1**
+1. [**Project 1**](https://uo-cit-sshina.github.io/cit281-p1/)
 Familiarize yourself with Node.js and CLI
-  - **Lab 01**
+  - [**Lab 01**](https://uo-cit-sshina.github.io/cit281-lab1/)
 Install software for the class, practice keyboard shortcuts, and practice with Node
 
-2. **Project 2**
+2. [**Project 2**](https://uo-cit-sshina.github.io/cit281-p2/)
 Practice git and optimized javascript, output random or sorted strings through created functions
-- **Lab 02**
+- [**Lab 02**](https://uo-cit-sshina.github.io/cit281-lab2/)
 Get to know git
 
 3. **Project 3**
@@ -31,7 +31,7 @@ Optional - a video game viewed in the CLI of fighting monsters, done through cla
 Create a shape class and child classes with working functions and variable inputs
 - **Lab 06**
 Work with classes -- creating classes and adding and removing instances
-- **Lab 07**
+- [**Lab 07**](https://uo-cit-sshina.github.io/cit281-lab7/)
 Create a workplace between local system and online GitHub repos
 
 7. **Project 7 (You are here)**
