@@ -11,34 +11,34 @@ Practice git and optimized javascript, output random or sorted strings through c
 - [**Lab 02**](https://uo-cit-sshina.github.io/cit281-lab2/)
 Get to know git
 
-3. **Project 3**
+3. [**Project 3**](https://uo-cit-sshina.github.io/cit281-p3/)
 Calculate values of groups of coins using js concepts from recent lectures
-- **Lab 03**
+- [**Lab 03**](https://uo-cit-sshina.github.io/cit281-lab3/)
 Practice new js concepts from lectures
-- **Lab 04**
+- [**Lab 04**](https://uo-cit-sshina.github.io/cit281-lab4/)
 Creating your first server with Node and Fastify
 
-4. **Project 4**
+4. [**Project 4**](https://uo-cit-sshina.github.io/cit281-p4/)
 Implement accessibility and interactivity with an array through a Node.js REST API server, including ability to add and remove elements and accessing the updated array
-- **Lab 05**
+- [**Lab 05**](https://uo-cit-sshina.github.io/cit281-lab5/)
 Practice POST and GET requests with JSONs using Postman
 
-5. **Project 5**
+5. [**Project 5**](https://uo-cit-sshina.github.io/cit281-p5/)
 Optional - a video game viewed in the CLI of fighting monsters, done through classes, timeouts, modules, arrays.
 
 
-6. **Project 6**
+6. [**Project 6**](https://uo-cit-sshina.github.io/cit281-p6/)
 Create a shape class and child classes with working functions and variable inputs
-- **Lab 06**
+- [**Lab 06**](https://uo-cit-sshina.github.io/cit281-lab6/)
 Work with classes -- creating classes and adding and removing instances
 - [**Lab 07**](https://uo-cit-sshina.github.io/cit281-lab7/)
 Create a workplace between local system and online GitHub repos
 
 7. **Project 7 (You are here)**
 Create a GitHub page for all CIT projects and labs
-- **Lab 08**
+- [**Lab 08**](https://uo-cit-sshina.github.io/cit281-lab8/)
 Fetch and work with placeholder data using promises and node-fetch
-- **Lab 09**
+- [**Lab 09**](https://github.com/sshina/release-based-workflow)
 Practice GitHub workflow
 - **Lab 10**
 Nothing
